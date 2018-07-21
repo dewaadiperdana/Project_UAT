@@ -11,6 +11,8 @@ var usersRouter = require('./routes/users');
 
 // Ne bin ubah cang, anggo ngetest gen hehe
 
+// Bin server ne edit cg nah
+
 var app = express();
 
 const Sequelize = require('sequelize');
