@@ -7,6 +7,8 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
+// Ne tambahin cang jik
+
 var app = express();
 
 const Sequelize = require('sequelize');
